@@ -1,4 +1,4 @@
-# ImagensMedicas
+# Imagens Médicas
 
 Repositório contendo os códigos em Python das atividades em laboratório 
 da UC de Imagens Médicas do curso de Engenharia Biomédica - UNIFESP SJC.
